@@ -58,3 +58,4 @@ z80.h
 # PROJECT FILES & FOLDERS
 # -----------------------
 backup/
+!releases/zsm*/*.ZSM
